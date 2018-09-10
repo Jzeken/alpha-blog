@@ -21,7 +21,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-This is the first project we will be making while I am learning Ruby on Rails.
+
+This is the first project I will be making while I am learning Ruby on Rails.
 
 Hi I am currently learning Ruby on Rails, I bought this course at Udemy so that I can probably understand more about rails. Link : https://www.udemy.com/the-complete-ruby-on-rails-developer-course/
