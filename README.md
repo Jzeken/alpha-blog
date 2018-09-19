@@ -1,27 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Alpha Blog
 
-Things you may want to cover:
+A simple blog site made using ruby on rails.
 
-* Ruby version = 2.5.1
+FEATURES
+  - User can Create and Read Article
+  - User can Edit or Delete his own Article or he is an Admin.
+  - View all Users and View the Articles of other User
+  - View by Categories
+  _ Admin User can Add Categories, Delete users
+  - User can sign up, login/out
+  - User Interface uses Bootstrap
 
-* System dependencies
+The app is made for me to understand and learn the basics of Ruby on Rails.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-
-This is the first project I will be making while I am learning Ruby on Rails.
-
-Hi I am currently learning Ruby on Rails, I bought this course at Udemy so that I can probably understand more about rails. Link : https://www.udemy.com/the-complete-ruby-on-rails-developer-course/
+[FOR THE SAKE OF LEARNING RUBY ON RAILS]
+link of application : https://project-alpha-blog.herokuapp.com/articles
